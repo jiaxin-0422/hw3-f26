@@ -80,7 +80,7 @@ nav a:hover, nav a:focus {
 
      .container img {
           width: 100%;
-          height: auto;
+          height: 100%;
           display: block;
      }
 
@@ -97,7 +97,7 @@ nav a:hover, nav a:focus {
  }
 
 /* Add your media query here */
-@media screen and (min-width: 875px) {
+@media screen and (min-width: 825px) {
 
   /* Step 10: Write the selector/rule property to style the nav element */
   nav {
